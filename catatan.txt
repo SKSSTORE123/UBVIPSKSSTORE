@@ -1,0 +1,22 @@
+password tanpa masa berlaku
+
+dan passnya bisa didapat langsung didalam script
+
+ingat !!!
+
+jika pass salah kemungkinan kami perbarui + scriptnya
+
+jadi silahkan langsung update scriptnya
+
+
+ketik di termux jika ingin jalankan script ( auto update )
+
+• pkg update && upgrade
+
+• pkg install python
+
+• ls
+
+• python UBBUSSIDVIP.py
+
+Dimohon Jadi Satukan Folder jika ingin jalankan script ( jika terpisah maka akan terjadi error )
